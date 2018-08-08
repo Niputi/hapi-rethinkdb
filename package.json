@@ -7,8 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "rethinkdbdash": "^2.3.31",
-    "rethinkdbdash-timestampable": "0.0.2"
+    "rethinkdbdash": "^2.3.31"
   },
   "repository": {
     "type": "git",
